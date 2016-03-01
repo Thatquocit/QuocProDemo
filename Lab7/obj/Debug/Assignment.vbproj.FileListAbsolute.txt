@@ -1,0 +1,55 @@
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\bin\Debug\Lab7.exe.config
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\bin\Debug\Lab7.exe
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\bin\Debug\Lab7.pdb
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\bin\Debug\Lab7.xml
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.Chi_tiết_hóa_đơn.resources
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.Resources.resources
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.exe
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.xml
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.pdb
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.Quản_lý_hóa_đơn.resources
+D:\CNTT\Điện toán đám mây\lab\Lab7\Lab7\obj\Debug\Lab7.Quanlyhanghoa.resources
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\bin\Debug\Lab7.exe.config
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.exe
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.xml
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.pdb
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\bin\Debug\Lab7.exe
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\bin\Debug\Lab7.pdb
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\bin\Debug\Lab7.xml
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.Chi_tiết_hóa_đơn.resources
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.Quanlyhanghoa.resources
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.Resources.resources
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.Quản_lý_hóa_đơn.resources
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.Khách_hàng.resources
+D:\CNTT\Điện toán đám mây\lab\Assignment\Lab7\obj\Debug\Lab7.fomloaisanpham.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\bin\Debug\Lab7.exe.config
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.exe
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.xml
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.pdb
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\bin\Debug\Lab7.exe
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\bin\Debug\Lab7.pdb
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\bin\Debug\Lab7.xml
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.Chi_tiết_hóa_đơn.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.Khách_hàng.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.fomloaisanpham.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.Quanlyhanghoa.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.Resources.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Lab7.Quản_lý_hóa_đơn.resources
+E:\FPT POLY TECHNIC\Điện toán đám mây\NHAP\Dongpvpk00264_Phùng văn Đông_Assigment\Assignment\Lab7\obj\Debug\Assignment.vbproj.GenerateResource.Cache
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\bin\Debug\Lab7.exe.config
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.exe
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.xml
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.pdb
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\bin\Debug\Lab7.exe
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\bin\Debug\Lab7.pdb
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\bin\Debug\Lab7.xml
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Assignment.vbprojResolveAssemblyReference.cache
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.Chi_tiết_hóa_đơn.resources
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.Khách_hàng.resources
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.fomloaisanpham.resources
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.Quanlyhanghoa.resources
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.Resources.resources
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Lab7.Quản_lý_hóa_đơn.resources
+E:\FPT POLYTECHNIC\DIEN TOAN DAM MAY\Assignment\INF205_Quocttpk00353_Assignment\Assignment\Lab7\obj\Debug\Assignment.vbproj.GenerateResource.Cache
